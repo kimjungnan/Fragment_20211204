@@ -18,7 +18,7 @@ class SecondFragment : Fragment() {
     ): View? {
 //        return super.onCreateView(inflater, container, savedInstanceState)
 
-        return inflater.inflate(R.layout.fragment_second,ontainer, false)
+        return inflater.inflate(R.layout.fragment_second,container, false)
 
     }
 
